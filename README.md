@@ -29,3 +29,7 @@ You can specify the GPIO line to which the interrupt will be connected using jum
 2. <a href="https://github.com/krzychoooo/Mercury_Soft_RS485_V100" target="_blank">Mercury_Soft_RS485_V100</a>
 3. <a href="https://github.com/krzychoooo/Mercury_Soft_Relay_x3_V100" target="_blank">Mercury_Soft_Relay_x3_V100</a>
 4. <a href="https://github.com/krzychoooo/Mercury_Soft_Input5x_V1.0.0" target="_blank">Mercury_Soft_Input5x_V1.0.0</a>   
+
+#### Outside:
+* <a href="https://tranzystorek.pl/" target="_blank">https://tranzystorek.pl/</a>
+* <a href="https://krzychopcb.pl/" target="_blank">PCB assembly</a>
